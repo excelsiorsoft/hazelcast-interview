@@ -1,4 +1,3 @@
-You can find the code challenge below. Sending a zipped, ready to run source code or project is sufficient. Please note that we have a deadline of one week for the solution to be submitted.
 
 ##Hazelcast Coding Challenge
 
